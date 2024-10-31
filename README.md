@@ -16,6 +16,8 @@ This project analyzes animal sleep patterns and builds a predictive model to est
 6. [Code](#code)
 7. [Usage](#usage)
 8. [Results](#results)
+   - [Key Observations](#key-observations)
+   - [Error Distribution (Test)](#error-distribution-(test))
 
 
 
@@ -55,8 +57,6 @@ The `msleep.csv` dataset contains sleep-related and physiological characteristic
 4. **Visualization**:
    - A bar plot visualizes the average prediction error for each animal species in the test set, highlighting the model's performance across different species.
 
-### Error Distribution (Test)
-![Error Distribution (Test)](Error_Distribution_Test.png)
 
 ## Code
 
