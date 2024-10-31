@@ -8,16 +8,12 @@ This project analyzes animal sleep patterns and builds a predictive model to est
 2. [Project Overview](#project-overview)
 3. [Dataset](#dataset)
 4. [Project Workflow](#project-workflow)
-   - [Data Preprocessing](#data-preprocessing)
-   - [Model Training](#model-training)
-   - [Prediction and Error Analysis](#prediction-and-error-analysis)
-   - [Visualization](#visualization)
 5. [Error Distribution (Test)](#error-distribution-test)
 6. [Code](#code)
 7. [Usage](#usage)
 8. [Results](#results)
    - [Key Observations](#key-observations)
-   - [Error Distribution (Test)](#error-distribution-(test))
+   - [Error Distribution (Test)](#error-distribution-test)
 
 
 
